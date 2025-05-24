@@ -4,11 +4,11 @@ main:
     authors: Fujun Wang, Zhiyuan He, Rongfeng Ge, Meng Luo, Bihai Zheng, Zhiyong Zhang, Rongsong Tian, Yuanyuan Cao, Wenbin Zhu
     conference_short: JGS
     conference: Journal of the Geological Society
-    pdf: ./assets/files/multi.pdf
+    pdf: ./assets/files/2024 Wang JGS.pdf
     page: https://www.lyellcollection.org/doi/full/10.1144/jgs2023-176
-    bibtex: ./assets/files/multi.txt
-    image: ./assets/files/multi.jpg
-    citation: sf-0AGoAAAAJ:u5HHmVD_uO8C
+    bibtex: 
+    image: ./assets/files/2024_Wang_JGS.jpg
+    citation: 
     notes: Published
 
   - title: Magneto‐Ionics in Annealed W/CoFeB/HfO2 Thin Films
