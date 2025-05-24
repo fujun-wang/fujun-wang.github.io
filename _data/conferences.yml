@@ -3,9 +3,9 @@ main:
     authors: Fujun Wang
     conference_short: EGU
     conference: EGU General Assembly 2024
-    pdf: assets/files/Wang et al. 2024 _ EGU.pdf
+    pdf: .assets/files/Wang et al. 2024 _ EGU.pdf
     web: https://meetingorganizer.copernicus.org/EGU24/EGU24-11185.html
-    image: assets/img/2024EGU.jpg
+    image: .assets/img/2024EGU.jpg
     notes: Light talk about AutoVA
 
   - title: BeMAGIC Final Event - Post Event
