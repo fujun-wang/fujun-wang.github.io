@@ -5,8 +5,8 @@
 contact_form:
   enable : true
   form_action : "#" #contact form works with https://formspree.io
-  name : "votre nom"
-  email : "Votre email"
+  name : "Fujun Wang"
+  email : "fujunwang28@gmail.com"
   subject : "Matière"
   message : "Message"
   submit : "Soumettre"
