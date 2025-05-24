@@ -13,7 +13,7 @@ address_link: https://www.google.com/maps/place/Institut+f%C3%BCr+Chemie+-+Uni+P
 
 # Search Engine Optimization (SEO)
 keywords: fujun wang, wang fujun, fujunwang, wangfujun
-canonical: https://minimal-light-theme.yliu.me/
+canonical: https://fujun-wang.github.io/
 description: Fujun Wang is a Ph.D. student at University of Potsdam, Germany. His research interests focus on exploring the links between climate, erosion, and long-term landscape evolution utilizing low-temperature thermochronology and novel numerical methods combined with geomorphic data. Study areas mainly refer to the western Tarim Basin, Pamir, and Tianshan.
 
 # The option is used to enable the Johns Hopkins template.
@@ -23,7 +23,7 @@ enable_hopkins_logo: false
 enable_last_update: false
 
 # Links
-# cv_link: https://blog.songchen.science/de3ec0aa2234aa1e3ee275bbc715c6c9/CV.pdf
+# cv_link: https://github.com/fujun-wang/fujun-wang.github.io/blob/main/assets/files/CV-Fujun%20Wang_June25.pdf
 google_scholar: https://scholar.google.com/citations?user=6I2inpYAAAAJ&hl=en
 github_link: https://github.com/fujun-wang/
 linkedin: https://www.linkedin.com/in/fujun-wang-48b4162b5/
