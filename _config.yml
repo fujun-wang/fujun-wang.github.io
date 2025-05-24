@@ -13,7 +13,7 @@ address_link: https://www.google.com/maps/place/Institut+f%C3%BCr+Chemie+-+Uni+P
 
 # Search Engine Optimization (SEO)
 keywords: fujun wang, wang fujun, fujunwang, wangfujun
-canonical: https://fujun-wang.github.io/
+canonical: 
 description: Fujun Wang is a Ph.D. student at University of Potsdam, Germany. His research interests focus on exploring the links between climate, erosion, and long-term landscape evolution utilizing low-temperature thermochronology and novel numerical methods combined with geomorphic data. Study areas mainly refer to the western Tarim Basin, Pamir, and Tianshan.
 
 # The option is used to enable the Johns Hopkins template.
@@ -52,7 +52,7 @@ google_analytics: ${{ secrets.GOOGLE_SCHOLAR_ID }}
 
 # Use this project as a remote theme for GitHub Pages
 # See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
-remote_theme: yaoyao-liu/minimal-light
+remote_theme: 
 
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
