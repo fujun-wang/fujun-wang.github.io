@@ -27,7 +27,7 @@ enable_last_update: false
 google_scholar: https://scholar.google.com/citations?user=6I2inpYAAAAJ&hl=en
 github_link: https://github.com/fujun-wang/
 linkedin: https://www.linkedin.com/in/fujun-wang-48b4162b5/
-researchgate:https://www.researchgate.net/profile/Fujun-Wang-12?ev=hdr_xprf
+researchgate: https://www.researchgate.net/profile/Fujun-Wang-12?ev=hdr_xprf
 
 # Images 
 avatar: ./assets/img/avatar3.jpg
