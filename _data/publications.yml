@@ -1,52 +1,66 @@
 main:
 
-  - title: First identification of Late Mesozoic intraplate magmatism in the Chinese North Tianshan Implications for the orogenic architecture and crustal evolution
+  
+  - title: Mid-Cretaceous Accelerated Cooling of the Beishan Orogen, NW China: Evidence from Apatite Fission Track Thermochronology
+    authors: Fujun Wang, Meng Luo, Zhiyuan He, Yiqiong Wang, Bihai Zheng, Zhiyong Zhang, Xiao Hu, Wenbin Zhu
+    conference_short: Lithosphere
+    conference: Lithosphere
+    pdf: ./assets/files/2024Lithosphere.pdf
+    page: https://pubs.geoscienceworld.org/gsw/lithosphere/article/2023/Special%2014/lithosphere_2023_239/633545/Mid-Cretaceous-Accelerated-Cooling-of-the-Beishan
+    bibtex: ./assets/files/magnetoionic.txt
+    image: ./assets/img/2024Lithosphere.jpg
+    citation: sf-0AGoAAAAJ:d1gkVwhDpl0C
+    notes: Published
+    
+- title: First identification of Late Mesozoic intraplate magmatism in the Chinese North Tianshan Implications for the orogenic architecture and crustal evolution
     authors: Fujun Wang, Zhiyuan He, Rongfeng Ge, Meng Luo, Bihai Zheng, Zhiyong Zhang, Rongsong Tian, Yuanyuan Cao, Wenbin Zhu
     conference_short: JGS
     conference: Journal of the Geological Society
-    pdf: ./assets/files/2024 Wang JGS.pdf
+    pdf: ./assets/files/2024JGS.pdf
     page: https://www.lyellcollection.org/doi/full/10.1144/jgs2023-176
-    image: ./assets/files/2024_Wang_JGS.jpg
+    image: ./assets/img/2024JGS.jpg
     citation: sf-0AGoAAAAJ:qjMakFHDy7sC
-
-  - title: Magneto‐Ionics in Annealed W/CoFeB/HfO2 Thin Films
-    authors: Rohit Pachat, Djoudi Ourdani, Maria‐andromachi Syskaki, Alessio Lamperti, Subhajit Roy, <strong>Song Chen</strong>, Adriano Di Pietro, Ludovic Largeau, Roméo Juge, Maryam Massouras, Cristina Balan, Johannes Wilhelmus van der Jagt, Guillaume Agnus, Yves Roussigné, Mihai Gabor, Salim Mourad Chérif, Gianfranco Durin, Shimpei Ono, Jürgen Langer, Damien Querlioz, Dafiné Ravelosona, Mohamed Belmeguenai, Liza Herrera Diez
-    conference_short: Adv. Mater. Interfaces
-    conference: Advanced Materials Interfaces
-    pdf: https://onlinelibrary.wiley.com/doi/pdf/10.1002/admi.202200690
-    page: https://www.sciencedirect.com/science/article/abs/pii/S0925400521013800?via%3Dihub
-    bibtex: ./assets/files/magnetoionic.txt
-    image: ./assets/files/admi202270196-gra-0001-m.jpg
-    citation: sf-0AGoAAAAJ:d1gkVwhDpl0C
     notes: Published
-
-  - title: Flexible multielectrode arrays based electrochemical aptasensor for glycated human serum albumin detection
-    authors: Lei Zhou, Gabriela Figueroa-Miranda, <strong>Song Chen</strong>, Marc Neis, Ziheng Hu, Ruifeng Zhu, Yaqi Li, Michael Prömpers, Andreas Offenhäusser, Dirk Mayer
-    conference_short: Sens. Actuators B Chem.
-    conference: Sensors and Actuators B Chemical
-    pdf: ./assets/files/SSRN-id4328224.pdf
-    page: https://www.sciencedirect.com/science/article/abs/pii/S0925400523004458
+    
+  - title: Late Mesozoic intracontinental deformation and magmatism in the Chinese Tianshan and adjacent areas, Central Asia
+    authors: Fujun Wang, Meng Luo, Zhiyuan He, Rongfeng Ge, Yuanyuan Cao, Johan De Grave, Wenbin Zhu
+    conference_short: GSAB
+    conference: Geological Society of America Bulletin
+    pdf: ./assets/files/2022GSAB.pdf
+    page: https://pubs.geoscienceworld.org/gsa/gsabulletin/article/134/11-12/3003/612535/Late-Mesozoic-intracontinental-deformation-and
     bibtex: ./assets/files/flexible.txt
-    image: ./assets/files/1-s2.0-S0925400523004458-ga1_lrg.jpg
+    image: ./assets/img/2022GSAB.jpg
     citation: sf-0AGoAAAAJ:qjMakFHDy7sC
     notes: Published
 
-  - title: Controlling Magneto‐Ionics by Defect Engineering Through Light Ion Implantation
-    authors: Zheng Ma, Sofia Martins, Zhengwei Tan, Song Chen, Elmer Monteblanco, Maciej Liedke, Maik Butterling, Ahmed G Attallah, Eric Hirschmann, Andreas Wagner, Alberto Quintana, Eva Pellicer, Dafiné Ravelosona, Jordi Sort, Enric Menéndez
-    conference_short: AFM
-    conference: AFM
-    pdf: https://onlinelibrary.wiley.com/doi/pdf/10.1002/adfm.202312827
-    page: https://onlinelibrary.wiley.com/doi/pdf/10.1002/adfm.202312827
-    image: https://i1.rgstatic.net/publication/332591532_Advanced_Functional_Materials/links/5cbf3e40299bf120977abb00/largepreview.png
+  - title: Tectono-thermal evolution of the Kanggur-Huangshan shear zone, Chinese Tianshan: Insights from integrated geochronology and thermochronology
+    authors:  Meng Luo, Zhiyuan He, Fujun Wang, Yueqiao Zhang, Jianzhang Pang, Ying Wang, Ying Wu, Bihai Zheng, Johan De Grave, Wenbin Zhu
+    conference_short: JAES
+    conference: Journal of Asian Earth Sciences
+    pdf: ./assets/files/2025JAES.pdf
+    page: https://www.sciencedirect.com/science/article/pii/S1367912025000756
+    image: ./assets/img/2025JAES.jpg
     citation: sf-0AGoAAAAJ:Tyk-4Ss8FVUC
     notes: Published
 
-  - title: Tuning of perpendicular magnetic anisotropy in Bi-substituted yttrium iron garnet films by He+ ion irradiation
-    authors: Sreeveni Das, Rhodri Mansell, Lukáš Flajšman, Lide Yao, Johannes W van der Jagt, Song Chen, Dafiné Ravelosona, Liza Herrera Diez, Sebastiaan van Dijken
-    conference_short: APR
-    conference: APR
-    pdf: https://arxiv.org/pdf/2410.04849
-    page: https://arxiv.org/pdf/2410.04849
-    image: https://i1.rgstatic.net/publication/332591532_Advanced_Functional_Materials/links/5cbf3e40299bf120977abb00/largepreview.png
+  - title: Late Mesozoic intra-continental reactivation of the southern Altai, Central Asia
+    authors: Zhiyuan He, Shida Song, Fujun Wang, Wenbin Zhu, Xiaoming Shen, Stijn Glorie, Yong Liang, Linglin Zhong, Johan De Grave
+    conference_short: GASB
+    conference: Geological Society of America Bulletin
+    pdf: ./assets/files/2024GSAB.pdf
+    page: https://pubs.geoscienceworld.org/gsa/gsabulletin/article/137/5-6/2287/650793/Late-Mesozoic-intracontinental-reactivation-of-the
+    image: ./assets/img/2024GSAB.jpg
     citation: sf-0AGoAAAAJ:Y0pCki6q_DkC
     notes: Published 
+
+  - title: A re-evaluation of the Meso-Cenozoic thermo-tectonic evolution of Bogda Shan (Tian Shan, NW China) based on new basement and detrital apatite fission track thermochronology
+    authors: Zhiyuan He, Stijn Glorie, Fujun Wang, Wenbin Zhu, Ana Fonseca, Wenbo Su, Linglin Zhong, Xin Zhu, Johan De Grave
+    conference_short: IGR
+    conference: International Geology Review
+    pdf: ./assets/files/2023IGR.pdf
+    page: https://www.tandfonline.com/doi/full/10.1080/00206814.2022.2121946
+    image: ./assets/img/2023IGR.jpg
+    citation: sf-0AGoAAAAJ:Y0pCki6q_DkC
+    notes: Published 
+
+    
