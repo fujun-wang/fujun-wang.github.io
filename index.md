@@ -16,12 +16,12 @@ I am Fujun Wang, a Ph.D. student at University of Potsdam [University of Potsdam
 - **Thermochronology:** Fission track, U-Th/He, 4He/3He
 - **Sedimentary provenance** of the southeastern Junggar during the late Mesozoic
 - **Tectono-magmatic events** of the Tianshan Orogen during the late Mesozoic
-- **Exhumation and preservation of porphyry deposit** in the West Junggar
+- **Exhumation and preservation of porphyry deposit** in the Western Junggar
 
 
 ## Education
 - **Ph.D. in Thermochronology**, 2023 - Now, [University of Potsdam](https://www.uni-potsdam.de/en/geo/), Germany
-- **M.Sc. in Structural Geology**, 2017 - 2021, [Nanjing University](https://es.nju.edu.cn/esen/main.htm), China
+- **M.Sc. in Structural Geology**, 2018 - 2022, [Nanjing University](https://es.nju.edu.cn/esen/main.htm), China
 - **B.Sc. in Geology**, 2014 - 2018, [Chang'an Univeristy](https://en.chd.edu.cn/), China
 
 
