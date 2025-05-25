@@ -6,32 +6,30 @@ layout: homepage
 
 <h2 style="margin: 60px 0px 10px;">Short Bio</h2>
 
-I amxxxxxxxxxxxxxxa Physics Ph.D. candidate at [Spin-Ion Technologies](https://www.spin-ion.com/) and [Université Paris-Saclay](https://www.universite-paris-saclay.fr/), working under the mentorship of Dr. [Ravelosona dafiné](https://www.spin-ion.com/about-us/), the director of research [CNRS](https://www.cnrs.fr/fr) and CTO of [Spin-Ion Technologies](https://www.spin-ion.com/). My research involves magnetoelectric ("ME") materials for energy-efficient information technology and "ME" materials for data security in information technology using Multiferroics/Magneto-ionics/Surface charging, with a special focus on the boosting magneto-ionic effect using ion irradiation and implantation.
+I am Fujun Wang, a Ph.D. student at University of Potsdam [University of Potsdam](https://www.uni-potsdam.de/en/geo/), working under the supervision of Prof. [Peter van der Beek]( https://www.uni-potsdam.de/en/geo/institute/members/van-der-beek-peter) and Prof.[Edward Sobel](https://www.uni-potsdam.de/en/geo/institute/members/sobel-edward). My research focuses on exploring the links between climate, erosion, and long-term landscape evolution utilizing low-temperature thermochronology and novel numerical methods combined with geomorphic data. Study areas mainly refer to the western Tarim Basin, Pamir, and Tianshan.
+
 
 ## Research Interest
 
-- **Ion-material Simulation:** SRIM, SDTrimSP, RustBCA
-- **Ion Irradiation/Implantation**
-- **Machine Learning:** fairness AI, penalization and augmentation methods
-- **E-field controlled magnetization** VCMA, Strain-mediated ME (Magnetoelectric) Effects, Straintronic, iontronic, E-filed induced spin reorientation, SOT.
-- **Micro-, Nanofabrication**
-- **Neuromorphic Computing** Neuromorphic Sensing and Perception, Hybrid Computing Systems, Brain-Inspired Robotics
+- **Coupling interaction between tectonics, climate, and erosion:** between the Pamir and Tianshan
+- **Evolution of fold-and-thrust belts** in South Tianshan and North Pamir
+- **Thermochronology:** Fission track, U-Th/He, 4He/3He
+- **Sedimentary provenance** of the southeastern Junggar during the late Mesozoic
+- **Tectono-magmatic events** of the Tianshan Orogen during the late Mesozoic
+- **Exhumation and preservation of porphyry deposit** in the West Junggar
+
 
 ## Education
-- **Ph.D. in Physics**, 2021 - 2024, [Université Paris-Saclay](https://www.universite-paris-saclay.fr/), France
-- **M.Sc. in Materials Science**, 2017 - 2021, [RWTH-Aachen](https://www.rwth-aachen.de/go/id/a/?lidx=1), Germany
-- **B.Sc. in Materials Science**, 2009 - 2013, [Nanjing Tech Univeristy](https://www.njtech.edu.cn/), China
-- **German Certificate**, 2011 - 2012, [Nanjing Univeristy](https://www.nju.edu.cn/), China
-- **Coursera Certificate**, 2024 - present, [Coursera](https://www.coursera.org/), Online
-  - [Business English](https://blog.songchen.science/documents/coursera/6B4CVLYK9ASD.pdf)
-  - [Google Project Management](https://blog.songchen.science/documents/coursera/GPM.pdf)
+- **Ph.D. in Thermochronology**, 2023 - Now, [University of Potsdam](https://www.uni-potsdam.de/en/geo/), Germany
+- **M.Sc. in Structural Geology**, 2017 - 2021, [Nanjing University](https://es.nju.edu.cn/esen/main.htm), China
+- **B.Sc. in Geology**, 2014 - 2018, [Chang'an Univeristy](https://en.chd.edu.cn/), China
+
 
 ## Grants and Fellowships
-- **Marie Skłodowska-Curie Actions (MSCA) Individual Fellowship**, 2020-2024, Early Stage Researcher (ESR), Grant Number: 864415
+- **China Scholarship Council (CSC) Individual Fellowship**, 2023 - 2027, Grant Number: 202206190029
 
 ## Professional Affiliations
-- **Marie Curie Alumni Association Member**, 2021 - Present
-- **The European Magnetism Association (EMA) Member**, 2021 - Present
+- **The European Geosciences Union (EGU) Member**, 2024 - Present
 
 ## Certificates
 
