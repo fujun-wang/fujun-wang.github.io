@@ -11,8 +11,8 @@ I am Fujun Wang, a Ph.D. student at [University of Potsdam](https://www.uni-pots
 
 ## Research Interest
 
-- **Coupling interaction between tectonics, climate, and erosion:** between the Pamir and Tianshan
-- **Evolution of fold-and-thrust belts** in South Tianshan and North Pamir
+- **Coupling interaction between tectonics, climate, and erosion** between the Pamir and Tianshan
+- **Evolution of fold-and-thrust belts** in the South Tianshan and North Pamir
 - **Thermochronology:** Fission track, U-Th/He, 4He/3He
 - **Sedimentary provenance** of the southeastern Junggar during the late Mesozoic
 - **Tectono-magmatic events** of the Tianshan Orogen during the late Mesozoic
@@ -31,9 +31,6 @@ I am Fujun Wang, a Ph.D. student at [University of Potsdam](https://www.uni-pots
 ## Professional Affiliations
 - **The European Geosciences Union (EGU) Member**, 2024 - Present
 
-## Certificates
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="343635de-7d0f-43ea-922d-432566a4b1e5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 {% include_relative _includes/news.md %}
 
