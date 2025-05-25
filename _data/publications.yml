@@ -6,9 +6,8 @@ main:
     conference: Journal of the Geological Society
     pdf: ./assets/files/2024 Wang JGS.pdf
     page: https://www.lyellcollection.org/doi/full/10.1144/jgs2023-176
-    bibtex: 
     image: ./assets/files/2024_Wang_JGS.jpg
-    citation: 
+    citation: sf-0AGoAAAAJ:qjMakFHDy7sC
     notes: Published
 
   - title: Magneto‐Ionics in Annealed W/CoFeB/HfO2 Thin Films
