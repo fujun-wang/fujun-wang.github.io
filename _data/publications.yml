@@ -5,14 +5,14 @@ main:
     authors: Fujun Wang, Meng Luo, Zhiyuan He, Yiqiong Wang, Bihai Zheng, Zhiyong Zhang, Xiao Hu, Wenbin Zhu
     conference_short: Lithosphere
     conference: Lithosphere
-    pdf: ./assets/files/2024Lithosphere.pdf
+    pdf: 
     page: https://pubs.geoscienceworld.org/gsw/lithosphere/article/2023/Special%2014/lithosphere_2023_239/633545/Mid-Cretaceous-Accelerated-Cooling-of-the-Beishan
     bibtex: ./assets/files/magnetoionic.txt
     image: ./assets/img/2024Lithosphere.jpg
     citation: sf-0AGoAAAAJ:d1gkVwhDpl0C
     notes: Published
     
-- title: First identification of Late Mesozoic intraplate magmatism in the Chinese North Tianshan Implications for the orogenic architecture and crustal evolution
+- title: First identification of Late Mesozoic intraplate magmatism in the Chinese North Tianshan: Implications for the orogenic architecture and crustal evolution
     authors: Fujun Wang, Zhiyuan He, Rongfeng Ge, Meng Luo, Bihai Zheng, Zhiyong Zhang, Rongsong Tian, Yuanyuan Cao, Wenbin Zhu
     conference_short: JGS
     conference: Journal of the Geological Society
