@@ -1,13 +1,14 @@
 main:
 
-  - title: First identification of Late Mesozoic intraplate magmatism in the Chinese North Tianshan: Implications for the orogenic architecture and crustal evolution
-    authors: Fujun Wang, Zhiyuan He, Rongfeng Ge, Meng Luo, Bihai Zheng, Zhiyong Zhang, Rongsong Tian, Yuanyuan Cao, Wenbin Zhu
-    conference_short: JGS
-    conference: Journal of the Geological Society
-    pdf: ./assets/files/2024 Wang JGS.pdf
-    page: https://www.lyellcollection.org/doi/full/10.1144/jgs2023-176
-    image: ./assets/files/2024_Wang_JGS.jpg
-    citation: sf-0AGoAAAAJ:qjMakFHDy7sC
+  - title: Multi-target electrochemical malaria aptasensor on flexible multielectrode arrays for detection in malaria parasite blood samples
+    authors: Gabriela Figueroa-Miranda, <strong>Song Chen</strong>, Marc Neis, Lei Zhou, Yuting Zhang, Young Lo, Julian Alexander Tanner, Andrea Kreidenweiss, Andreas Offenhäusser, Dirk Mayer
+    conference_short: Sens. Actuators B Chem.
+    conference: Sensors and Actuators B Chemical
+    pdf: ./assets/files/multi.pdf
+    page: https://www.sciencedirect.com/science/article/abs/pii/S0925400521013800?via%3Dihub
+    bibtex: ./assets/files/multi.txt
+    image: ./assets/files/multi.jpg
+    citation: sf-0AGoAAAAJ:u5HHmVD_uO8C
     notes: Published
 
   - title: Magneto‐Ionics in Annealed W/CoFeB/HfO2 Thin Films
