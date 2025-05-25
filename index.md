@@ -6,7 +6,7 @@ layout: homepage
 
 <h2 style="margin: 60px 0px 10px;">Short Bio</h2>
 
-I am Fujun Wang, a Ph.D. student at University of Potsdam [University of Potsdam](https://www.uni-potsdam.de/en/geo/), working under the supervision of Prof. [Peter van der Beek]( https://www.uni-potsdam.de/en/geo/institute/members/van-der-beek-peter) and Prof.[Edward Sobel](https://www.uni-potsdam.de/en/geo/institute/members/sobel-edward). My research focuses on exploring the links between climate, erosion, and long-term landscape evolution utilizing low-temperature thermochronology and novel numerical methods combined with geomorphic data. Study areas mainly refer to the western Tarim Basin, Pamir, and Tianshan.
+I am Fujun Wang, a Ph.D. student at [University of Potsdam](https://www.uni-potsdam.de/en/geo/), working under the supervision of [Prof. Peter van der Beek]( https://www.uni-potsdam.de/en/geo/institute/members/van-der-beek-peter) and [Prof. Edward Sobel](https://www.uni-potsdam.de/en/geo/institute/members/sobel-edward). My research focuses on exploring the links between climate, erosion, and long-term landscape evolution utilizing low-temperature thermochronology and novel numerical methods combined with geomorphic data. Study areas mainly refer to the western Tarim Basin, Pamir, and Tianshan.
 
 
 ## Research Interest
