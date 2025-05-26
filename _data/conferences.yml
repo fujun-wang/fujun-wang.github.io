@@ -3,33 +3,34 @@ main:
     authors: Fujun Wang
     conference_short: EGU
     conference: EGU General Assembly 2024
-    pdf: .assets/files/Wang et al. 2024 _ EGU.pdf
+    pdf: .assets/files/2024EGU.pdf
     web: https://meetingorganizer.copernicus.org/EGU24/EGU24-11185.html
     image: .assets/img/2024EGU.jpg
-    notes: Light talk about AutoVA
-
-  - title: BeMAGIC Final Event - Post Event
-    authors: Song Chen
-    conference_short: BeMAGIC
-    conference: BeMAGIC Final Event
-    pdf: https://bemagic-etn.eu/images/files2023/BeMAGIC%20Final%20Event%20information%201.pdf
-    web: https://bemagic-etn.eu/news/81-bemagic-final-event-post-event
-    image: ./assets/img/autova.png
-    notes: 
-
-  - title: Reversible and Non-volatile Magneto-ionic effect in W-CoFeB-MgO-HfO2 ultra-thin films with Perpendicular Anisotropy
-    authors: Song Chen, Elmer Monteblanco, Rohit Pachat, Liza Herrera Diez, Dafiné Ravelosona
-    conference_short: JEMS
-    conference: 13th Joint European Magnetic Symposia
-    pdf: ./assets/files/JEMS2023_Song.pdf
-    web: https://www.jems2023.es/
-    image: ./assets/files/JEMS2023_2.jpg
     notes: Accepted
 
-  - title: BeMAGIC CONFERENCE IN TORINO – POST EVENT
-    conference_short: BeMAGIC
-    conference: BeMAGIC CONFERENCE IN TORINO
-    abstract: The BeMAGIC conference in Torino, entitled “Beyond Magnetoelectric Materials”, was successfully organized by the network ESRs (Early Stage Researchers). This event took place on 12-15 June 2023 at the Starhotel Majestic, Torino, Italy. The programme included 15 top-class experts in the magnetoelectric field, who delivered lectures on the following topics&#58; multiferroics, surface charging, magnetoionics and applications in healthcare, energy efficiency and cybersecurity.
+  - title: Thermo2025
+    authors: Fujun Wang
+    conference_short: Thermo2025
+    conference: 19th International Conference on Thermochronology
+    pdf: .assets/files/2025Therom.pdf
+    web: https://smartconf.jp/content/thermo2025/
+    image: ./assets/img/2025Therom.jpg
+    notes: Accepted
+
+  - title: 19th International Young Geomorphology Meeting 2025 
+    authors: Fujun Wang
+    conference_short: YG
+    conference: 19th International Young Geomorphology Meeting
+    pdf: ./assets/files/2025YG.pdf
+    web: https://www.dggm.org/jaehrliche-treffen/young-geomorphologists-activities-2024/
+    image: ./assets/img/2025YG.jpg
+    notes: Accepted
+
+
+  - title: Doctoral Seminar - University of Potsdam
+    conference_short: DSUP
+    conference: Doctoral Seminar - University of Potsdam
+    abstract: 
     pdf: https://bemagic-etn.eu/images/files2023/BeMAGIC_Conference_Torino_2023.pdf
     web: https://bemagic-etn.eu/news/79-bemagic-conference-in-torino-2023-post-event
     image: ./assets/img/Group_picture.jpg
