@@ -13,8 +13,8 @@ main:
   - title: "Projects"
     url: ./#projects
 
-  - title: "News"
-    url: ./#news
+  - title: "Lab"
+    url: ./#lab
 
   - title: "Blogs"
     url: ./blog/
