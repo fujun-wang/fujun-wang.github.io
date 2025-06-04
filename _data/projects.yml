@@ -13,27 +13,26 @@ main:
     authors: Fujun Wang
     project_short: Research project
     project:  
-    pdf: 
+    pdf: ./assets/files/project2.pdf
     web: 
     image: ./assets/img/autova.png
     notes: 2024 - Now
-    
-  - title: Late Mesozoic tectono-magmatic event in Tianshan Orogen, NW China
-    authors: Fujun Wang
-    project_short: Research project
-    project: 
-    web: 
-    image: 
-    notes: 2019 - 2022
-
+     
   - title: Late Mesozoic sedimentary provenance of the southeastern Junggar, NW China
     authors: Fujun Wang
     project_short: Research project
     project: 
-    pdf: 
+    pdf: ./assets/files/2022GSAB.pdf
     web: 
-    image: 
+    image: ./assets/img/2022GSAB.jpg
     notes: 2018 - 2021
 
-
+- title: Late Mesozoic tectono-magmatic event in Tianshan Orogen, NW China
+    authors: Fujun Wang
+    project_short: Research project
+    project: 
+    pdf: ./assets/files/2024JGS.pdf
+    web: 
+    image: 
+    notes: 2019 - 2022
  
