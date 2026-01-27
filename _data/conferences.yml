@@ -1,65 +1,64 @@
-main:
- Conferences
-  - title: EGU General Assembly 2024
-    authors: Fujun Wang
-    conference_short: EGU
-    conference: EGU General Assembly 2024
-    pdf: .assets/files/2024EGU.pdf
-    web: https://meetingorganizer.copernicus.org/EGU24/EGU24-11185.html
-    image: .assets/img/2024EGU.jpg
-    notes: Accepted
+conferences:
+  - title: "EGU General Assembly 2024"
+    authors: "Fujun Wang"
+    conference_short: "EGU"
+    conference: "EGU General Assembly 2024"
+    pdf: "./assets/files/2024EGU.pdf"
+    web: "https://meetingorganizer.copernicus.org/EGU24/EGU24-11185.html"
+    image: "./assets/img/2024EGU.jpg"
+    notes: "Accepted"
 
-  - title: Thermo2025
-    authors: Fujun Wang
-    conference_short: Thermo2025
-    conference: 19th International Conference on Thermochronology
-    pdf: .assets/files/2025Therom.pdf
-    web: https://smartconf.jp/content/thermo2025/
-    image: ./assets/img/2025Therom.jpg
-    notes: Accepted
+  - title: "Thermo2025"
+    authors: "Fujun Wang"
+    conference_short: "Thermo2025"
+    conference: "19th International Conference on Thermochronology"
+    pdf: "./assets/files/2025Therom.pdf"
+    web: "https://smartconf.jp/content/thermo2025/"
+    image: "./assets/img/2025Therom.jpg"
+    notes: "Accepted"
 
-  - title: 19th International Young Geomorphology Meeting 2025 
-    authors: Fujun Wang
-    conference_short: YG
-    conference: 19th International Young Geomorphology Meeting
-    pdf: ./assets/files/2025YG.pdf
-    web: https://www.dggm.org/jaehrliche-treffen/young-geomorphologists-activities-2024/
-    image: ./assets/img/2025YG.jpg
-    notes: Accepted
+  - title: "19th International Young Geomorphology Meeting 2025"
+    authors: "Fujun Wang"
+    conference_short: "YG"
+    conference: "19th International Young Geomorphology Meeting"
+    pdf: "./assets/files/2025YG.pdf"
+    web: "https://www.dggm.org/jaehrliche-treffen/young-geomorphologists-activities-2024/"
+    image: "./assets/img/2025YG.jpg"
+    notes: "Accepted"
 
- Workshops
-  - title: Doctoral Seminar - University of Potsdam
-    conference_short: DSUP
-    conference: Doctoral Seminar - University of Potsdam
-    abstract: Presentation and Poster: Late Cenozoic Pamir-Tianshan convergence recorded by Low-temperature thermochronology 
-    image: ./assets/img/2025DS.jpg
+workshops:
+  - title: "Doctoral Seminar - University of Potsdam"
+    conference_short: "DSUP"
+    conference: "Doctoral Seminar - University of Potsdam"
+    abstract: "Presentation and Poster: Late Cenozoic Pamir–Tianshan convergence recorded by low-temperature thermochronology."
+    image: "./assets/img/2025DS.jpg"
 
-  - title: Winter School 2025 - University of Camerino, Italy 
-    conference_short: Camerino
-    conference: Winter School 2025 - University of Camerino, Italy 
-    abstract: Cross-section construction in fold and thrust belts using 3D Move 
-    image: ./assets/img/2025Camerino.jpg
+  - title: "Winter School 2025 - University of Camerino, Italy"
+    conference_short: "Camerino"
+    conference: "Winter School 2025 - University of Camerino, Italy"
+    abstract: "Cross-section construction in fold and thrust belts using 3D Move."
+    image: "./assets/img/2025Camerino.jpg"
 
-  - title: MinPet Seminar 2024- University of Potsdam, Germany 
-    conference_short: MinPet
-    conference: MinPet Seminar 2024- University of Potsdam, Germany
-    abstract: Presentation: First identification of Late Mesozoic intraplate magmatism in the Chinese Tianshan  
-    image: ./assets/img/2024MinPet.jpg
+  - title: "MinPet Seminar 2024 - University of Potsdam, Germany"
+    conference_short: "MinPet"
+    conference: "MinPet Seminar 2024 - University of Potsdam, Germany"
+    abstract: "Presentation: First identification of Late Mesozoic intraplate magmatism in the Chinese Tianshan."
+    image: "./assets/img/2024MinPet.jpg"
 
-  - title: SMURF Seminar 2024- University of Potsdam, Germany 
-    conference_short: SMURF
-    conference:  SMURF Seminar 2024- University of Potsdam, Germany 
-    abstract: 	Presentation: How did the Cenozoic Pamir - Tianshan convergence impact the Neotethys regression and Tarim aridification?   
-    image: ./assets/img/2024SMURF.jpg
+  - title: "SMURF Seminar 2024 - University of Potsdam, Germany"
+    conference_short: "SMURF"
+    conference: "SMURF Seminar 2024 - University of Potsdam, Germany"
+    abstract: "Presentation: How did the Cenozoic Pamir–Tianshan convergence impact the Neotethys regression and Tarim aridification?"
+    image: "./assets/img/2024SMURF.jpg"
 
-  - title: Winter School 2023 - University of Pavia, Italy 
-    conference_short: Pavia
-    conference: Winter School 2023 - University of Pavia, Italy
-    abstract: Dynamics and Sedimentary Systems in Collisional Zones
-    image: ./assets/img/2023Pavia .jpg
-    
- - title: FTB Workshop 2023 - University of Potsdam, Germany 
-    conference_short: FTB-UP
-    conference:  FTB Workshop 2023 - University of Potsdam, Germany
-    abstract: Workshop on combining fold-and-thrust belt kinematics with thermochronology
-    image: ./assets/img/2023Potsdam.jpg
+  - title: "Winter School 2023 - University of Pavia, Italy"
+    conference_short: "Pavia"
+    conference: "Winter School 2023 - University of Pavia, Italy"
+    abstract: "Dynamics and Sedimentary Systems in Collisional Zones."
+    image: "./assets/img/2023Pavia.jpg"
+
+  - title: "FTB Workshop 2023 - University of Potsdam, Germany"
+    conference_short: "FTB-UP"
+    conference: "FTB Workshop 2023 - University of Potsdam, Germany"
+    abstract: "Workshop on combining fold-and-thrust belt kinematics with thermochronology."
+    image: "./assets/img/2023Potsdam.jpg"
