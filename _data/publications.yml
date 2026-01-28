@@ -6,7 +6,7 @@ main:
     pdf:
     page: "https://pubs.geoscienceworld.org/gsw/lithosphere/article/2023/Special%2014/lithosphere_2023_239/633545/Mid-Cretaceous-Accelerated-Cooling-of-the-Beishan"
     image: "./assets/img/2024Lithosphere.jpg"
-    citation: "12"
+    citation: 
     notes: 
 
   - title: "First identification of Late Mesozoic intraplate magmatism in the Chinese North Tianshan: Implications for the orogenic architecture and crustal evolution"
@@ -16,7 +16,7 @@ main:
     pdf: "./assets/files/2024JGS.pdf"
     page: "https://www.lyellcollection.org/doi/full/10.1144/jgs2023-176"
     image: "./assets/img/2024JGS.jpg"
-    citation: "sf-0AGoAAAAJ:qjMakFHDy7sC"
+    citation:
     notes:
 
   - title: "Late Mesozoic intracontinental deformation and magmatism in the Chinese Tianshan and adjacent areas, Central Asia"
@@ -25,9 +25,7 @@ main:
     conference: "Geological Society of America Bulletin · 2022"
     pdf: "./assets/files/2022GSAB.pdf"
     page: "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/134/11-12/3003/612535/Late-Mesozoic-intracontinental-deformation-and"
-    bibtex: "./assets/files/flexible.txt"
     image: "./assets/img/2022GSAB.jpg"
-    citation: "sf-0AGoAAAAJ:qjMakFHDy7sC"
     notes:
 
   - title: "Tectono-thermal evolution of the Kanggur-Huangshan shear zone, Chinese Tianshan: Insights from integrated geochronology and thermochronology"
@@ -37,7 +35,7 @@ main:
     pdf: "./assets/files/2025JAES.pdf"
     page: "https://www.sciencedirect.com/science/article/pii/S1367912025000756"
     image: "./assets/img/2025JAES.jpg"
-    citation: "sf-0AGoAAAAJ:Tyk-4Ss8FVUC"
+    citation: 
     notes:
 
   - title: "Late Mesozoic intra-continental reactivation of the southern Altai, Central Asia"
@@ -47,7 +45,7 @@ main:
     pdf: "./assets/files/2024GSAB.pdf"
     page: "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/137/5-6/2287/650793/Late-Mesozoic-intracontinental-reactivation-of-the"
     image: "./assets/img/2024GSAB.jpg"
-    citation: "sf-0AGoAAAAJ:Y0pCki6q_DkC"
+    citation: 
     notes:
 
   - title: "A re-evaluation of the Meso-Cenozoic thermo-tectonic evolution of Bogda Shan (Tian Shan, NW China) based on new basement and detrital apatite fission track thermochronology"
