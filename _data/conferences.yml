@@ -1,18 +1,17 @@
 main:
   - type: "Conference"
     title: "Thermo2025"
-    authors: "Fujun Wang"
     conference_short: "Thermo2025"
     conference: "19th International Conference on Thermochronology"
     abstract: "Presentation and Poster: Late Cenozoic Pamir–Tianshan convergence recorded by zircon and apatite (U-Th-Sm)/He thermochronology."
     pdf: "./assets/files/2025Therom.pdf"
     web: "https://smartconf.jp/content/thermo2025/"
-    image: "./assets/img/Therom25.jpg"
+    image: "./assets/img/Thermo25.jpg"
     notes: "2025 Kanazawa, Japan"
 
   - type: "Conference"
     title: "19th International Young Geomorphology Meeting 2025"
-    authors: "Fujun Wang"
+    authors: 
     conference_short: "YG"
     conference: "19th International Young Geomorphology Meeting"
     abstract: "Presentation: The Role of Pamir-Tianshan Convergence in the Oset of the Taklamakan Desert"
@@ -23,7 +22,7 @@ main:
 
   - type: "Workshop"
     title: "International workshop on Tibet Uplift"
-    authors: "Fujun Wang"
+    authors: 
     conference_short: "Lanzhou"
     conference: "International workshop on Tibet Uplift"
     abstract: "Presentation: Late Cenozoic convergence between the Pamir and the Tianshan recorded by low-temperature thermochronology"
@@ -50,7 +49,7 @@ main:
 
   - type: "Conference"
     title: "EGU General Assembly 2024"
-    authors: "Fujun Wang"
+    authors: 
     conference_short: "EGU"
     conference: "EGU General Assembly 2024"
     pdf: "./assets/files/2024EGU.pdf"
@@ -87,5 +86,5 @@ main:
     conference_short: "FTB-UP"
     conference: "FTB Workshop 2023 - University of Potsdam, Germany"
     abstract: "Workshop on combining fold-and-thrust belt kinematics with thermochronology."
-    image: "./assets/img/2023Potsdam.jpg"
+    image: "./assets/img/lnzhou.jpg"
     notes: "2023 Potsdam, Germany"
