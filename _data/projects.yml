@@ -5,32 +5,23 @@ main:
     project:
     pdf:
     web:
-    image:
-    notes: "2023 - Now"
+    image: "./assets/img/Figure 9 Convergence.png"
+    notes: "2024 - Now"
 
   - title: "How Climate, Uplift, and Erosion Shaped the South Tianshan Topography"
     authors: "Fujun Wang"
     project_short: "Research project"
     project:
-    pdf: "./assets/files/project2.pdf"
+    pdf: "./assets/img/Figure 1 Tectonic units of Tibetan and adjacent regions.jpg"
     web:
     image: "./assets/img/autova.png"
-    notes: "2024 - Now"
+    notes: "2023 - Now"
 
-  - title: "Late Mesozoic sedimentary provenance of the southeastern Junggar, NW China"
+  - title: "Late Mesozoic tectono-magmatic event in Tianshan Orogen, NW China"
     authors: "Fujun Wang"
     project_short: "Research project"
     project:
     pdf: "./assets/files/2022GSAB.pdf"
     web:
     image: "./assets/img/2022GSAB.jpg"
-    notes: "2018 - 2021"
-
-  - title: "Late Mesozoic tectono-magmatic event in Tianshan Orogen, NW China"
-    authors: "Fujun Wang"
-    project_short: "Research project"
-    project:
-    pdf: "./assets/files/2024JGS.pdf"
-    web:
-    image:
-    notes: "2019 - 2022"
+    notes: "2018 - 2022"
