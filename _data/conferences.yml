@@ -21,17 +21,17 @@ main:
     image: "./assets/img/YG0.jpg"
     notes: "2025 Germany"
 
-- type: "Workshop"
+  - type: "Workshop"
     title: "International workshop on Tibet Uplift"
     authors: "Fujun Wang"
     conference_short: "Lanzhou"
     conference: "International workshop on Tibet Uplift"
     abstract: "Presentation: Late Cenozoic convergence between the Pamir and the Tianshan recorded by low-temperature thermochronology"
-    pdf: 
-    web: 
+    pdf:
+    web:
     image: "./assets/img/Lanzhou0.jpg"
     notes: "2025 Lanzhou, China"
-    
+
   - type: "Workshop"
     title: "Doctoral Seminar - University of Potsdam"
     conference_short: "DSUP"
@@ -47,7 +47,7 @@ main:
     abstract: "Cross-section construction in fold and thrust belts using 3D Move."
     image: "./assets/img/comerano1.jpg"
     notes: "2025 Camerino, Italy"
-    
+
   - type: "Conference"
     title: "EGU General Assembly 2024"
     authors: "Fujun Wang"
@@ -57,7 +57,7 @@ main:
     web: "https://meetingorganizer.copernicus.org/EGU24/EGU24-11185.html"
     image: "./assets/img/2024EGU.jpg"
     notes: "2024 Vienna, Austria"
-    
+
   - type: "Workshop"
     title: "MinPet Seminar 2024 - University of Potsdam, Germany"
     conference_short: "MinPet"
