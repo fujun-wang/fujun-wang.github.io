@@ -4,9 +4,11 @@ main:
     conference_short: "Lithosphere"
     conference: "Lithosphere"
     pdf:
-    page: "https://pubs.geoscienceworld.org/gsw/lithosphere/article/2023/Special%2014/lithosphere_2023_239/633545/Mid-Cretaceous-Accelerated-Cooling-of-the-Beishan"
-    bibtex: "./assets/files/magnetoionic.txt"
-    image: "./assets/img/2024Lithosphere.jpg"
+    web: "https://pubs.geoscienceworld.org/gsw/lithosphere/article/2023/Special%2014/lithosphere_2023_239/633545/Mid-Cretaceous-Accelerated-Cooling-of-the-Beishan"
+    images: 
+    - "./assets/img/2024Lithosphere.jpg"
+    - "./assets/img/2024JGS.jpg"
+    - "./assets/img/2022GSAB.jpg"
     citation: "12"
     notes: "Published in 2024"
 
