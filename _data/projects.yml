@@ -12,16 +12,16 @@ main:
     authors: "Fujun Wang"
     project_short: "Research project"
     project:
-    pdf: "./assets/img/Figure 1 Tectonic units of Tibetan and adjacent regions.jpg"
+    pdf: 
     web:
-    image: "./assets/img/autova.png"
+    image: "./assets/img/Figure 1 Tectonic units of Tibetan and adjacent regions.jpg"
     notes: "2023 - Now"
 
   - title: "Late Mesozoic tectono-magmatic event in Tianshan Orogen, NW China"
     authors: "Fujun Wang"
     project_short: "Research project"
     project:
-    pdf: "./assets/files/2022GSAB.pdf"
+    pdf: 
     web:
     image: "./assets/img/2022GSAB.jpg"
     notes: "2018 - 2022"
