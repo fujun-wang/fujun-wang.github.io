@@ -3,7 +3,7 @@ main:
     authors: "Fujun Wang, Meng Luo, Zhiyuan He, Yiqiong Wang, Bihai Zheng, Zhiyong Zhang, Xiao Hu, Wenbin Zhu"
     conference_short: "Lithosphere"
     conference: "Lithosphere"
-    year: 2024
+    year: "2024"
     pdf:
     page: "https://pubs.geoscienceworld.org/gsw/lithosphere/article/2023/Special%2014/lithosphere_2023_239/633545/Mid-Cretaceous-Accelerated-Cooling-of-the-Beishan"
     image: "./assets/img/2024Lithosphere.jpg"
