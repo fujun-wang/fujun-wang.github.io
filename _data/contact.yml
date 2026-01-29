@@ -1,4 +1,4 @@
-############################## Contact #############################
+g############################## Contact #############################
 
 
 # Contact form
@@ -7,6 +7,6 @@ contact_form:
   form_action : "#" #contact form works with https://formspree.io
   name : "Fujun Wang"
   email : "fujunwang28@gmail.com"
-  subject : "Matière"
+  subject : "Subject"
   message : "Message"
-  submit : "Soumettre"
+  submit : "Submit"
