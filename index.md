@@ -26,6 +26,7 @@ I am Fujun Wang, a Ph.D. student at [University of Potsdam](https://www.uni-pots
 
 
 ## Grants and Fellowships
+- **Student Presentation Awardees** from 19th International Conference on Thermochronology (Thermo25) in Japan, Sep. 2025
 - **China Scholarship Council (CSC) Individual Fellowship**, 2023 - 2027, Grant Number: 202206190029
 
 ## Professional Affiliations
