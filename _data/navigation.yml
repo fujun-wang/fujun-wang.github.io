@@ -1,11 +1,6 @@
 main:
-
-  - title: "Contact"
-    url: ./#contact 
-    right: true 
-
-  - title: "Conferences & Workshops"
-    url: ./#conferences
+  - title: "Bio"
+    url: ./#about-me
 
   - title: "Publications"
     url: ./#publications
@@ -13,11 +8,15 @@ main:
   - title: "Projects"
     url: ./#projects
 
+  - title: "Conferences & Workshops"
+    url: ./#conferences
+
   - title: "Lab"
     url: ./#lab
 
-  - title: "Blogs"
+  - title: "Field Works"
     url: ./blog/
 
-  - title: "Bio"
-    url: ./#about-me
+  - title: "Contact"
+    url: ./#contact
+    right: true
