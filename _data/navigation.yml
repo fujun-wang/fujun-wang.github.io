@@ -14,8 +14,11 @@ main:
   - title: "Lab"
     url: ./#lab
 
-  - title: "Field Works"
-    url: ./blog/
+  #- title: "Blogs"
+    #url: ./blog/
+
+  - title: "CV"
+    url: ./assets/files/CV_Fujun_Wang.pdf
 
   - title: "Contact"
     url: ./#contact
