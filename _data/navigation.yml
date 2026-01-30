@@ -1,6 +1,7 @@
 main:
   - title: "Contact"
     url: ./#contact
+    right: true 
 
   - title: "CV"
     url: ./assets/files/CV_Fujun_Wang.pdf
