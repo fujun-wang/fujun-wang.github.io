@@ -1,24 +1,21 @@
 main:
-  - title: "Bio"
-    url: ./#about-me
+  - title: "Contact"
+    url: ./#contact
 
-  - title: "Publications"
-    url: ./#publications
-
-  - title: "Projects"
-    url: ./#projects
-
-  - title: "Conferences & Workshops"
-    url: ./#conferences
+  - title: "CV"
+    url: ./assets/files/CV_Fujun_Wang.pdf
 
   - title: "Lab"
     url: ./#lab
 
-  - title: "Field Works"
-    url: ./#field-works
+  - title: "Conferences & Workshops"
+    url: ./#conferences
 
-  - title: "CV"
-    url: ./assets/files/CV-Fujun Wang_June2025.pdf
+  - title: "Projects"
+    url: ./#projects
 
-  - title: "Contact"
-    url: ./#contact
+  - title: "Publications"
+    url: ./#publications
+
+  - title: "Bio"
+    url: ./#about-me
